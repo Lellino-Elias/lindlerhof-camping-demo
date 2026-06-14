@@ -100,7 +100,7 @@ export const lindlerhof: CampsiteConfig = {
       { title: "Im Nationalpark Hohe Tauern", text: "Idyllisch gelegen zwischen Großglockner und den Lienzer Dolomiten – Alpenlandschaft, soweit das Auge reicht.", image: { src: `${IMG}/camping-lage.webp`, alt: "Blick über das Mölltal mit Wohnmobilen und Bergen im Abendlicht" } },
       { title: "Mitten in der Natur", text: "Großzügige Wiesen-Stellplätze für Zelt, Wohnwagen und Wohnmobil – ringsum nur Wald, Berge und Ruhe.", image: { src: `${IMG}/camping-zeltwiese.webp`, alt: "Zelte und Camper auf grünem Hügel am Lindlerhof" } },
       { title: "Stellplätze mit Bergblick", text: "Ebene Plätze mit Blick auf die teils schneebedeckten Gipfel der Hohen Tauern – am Morgen wie im Abendlicht.", image: { src: `${IMG}/camping-stellplatz.webp`, alt: "Wohnwagen mit Blick auf die Berge am Camping Lindlerhof" } },
-      { title: "Neue Sanitäranlagen", text: "Moderne, großzügige Sanitäranlagen – warmes Wasser steht jederzeit kostenlos zur Verfügung, Waschmaschine und Trockner sind vorhanden.", image: { src: `${IMG}/camping-sanitaer.webp`, alt: "Eingang der neuen Sanitäranlagen am Camping Lindlerhof" } },
+      { title: "Neue Sanitäranlagen", text: "Moderne, großzügige Sanitäranlagen – warmes Wasser steht jederzeit kostenlos zur Verfügung, Waschmaschine und Trockner sind vorhanden.", image: { src: `${IMG}/camping-sanitaer.webp`, alt: "Modernes Waschraum-Interieur der neuen Sanitäranlagen am Camping Lindlerhof mit Natursteinwand und Holztüren" } },
       { title: "Restaurant am Platz", text: "In der Hauptsaison verwöhnt das Restaurant von 18 bis 20 Uhr mit ausgezeichneten Speisen – um Reservierung wird gebeten, in der Nebensaison auf Anfrage.", image: { src: `${IMG}/camping-restaurant.webp`, alt: "Restaurant-Pavillon aus Holz am Camping Lindlerhof" } },
       { title: "Unser Bauernhof", text: "Tiere zum Anfassen, ein Kräutergarten zum Naschen und das Landleben hautnah – mittendrin statt nur dabei.", image: { src: `${IMG}/camping-bauernhof.webp`, alt: "Kühe am Hofweg des Lindlerhof" } },
     ],
@@ -153,7 +153,7 @@ export const lindlerhof: CampsiteConfig = {
     items: [
       { title: "Wandern im Mölltal", text: "Vom Platz direkt los: Wandern und Bergtouren im Nationalpark Hohe Tauern, zwischen Großglockner und den Lienzer Dolomiten.", image: { src: `${IMG}/aktiv-wandern.webp`, alt: "Bergkirche Marterle mit verschneiten Gipfeln im Mölltal" } },
       { title: "Skifahren im Winter", text: "Die Skigebiete Heiligenblut, Zettersfeld, Hochstein und der Mölltaler Gletscher sind in 20 bis 40 Minuten mit dem Auto erreichbar.", image: { src: `${IMG}/aktiv-winter.webp`, alt: "Frischer Schnee mit Spuren und verschneiten Bäumen rund um den Lindlerhof" } },
-      { title: "Tiere & Hofleben", text: "Ziegen, Kühe und mehr: zahlreiche Tiere warten am Hof – immer wieder eine Freude für Groß und Klein.", image: { src: `${IMG}/aktiv-tiere.webp`, alt: "Zwei Ziegen im Stall am Bauernhof Lindlerhof" } },
+      { title: "Tiere & Hofleben", text: "Ziegen, Kühe und mehr: zahlreiche Tiere warten am Hof – immer wieder eine Freude für Groß und Klein.", image: { src: `${IMG}/aktiv-tiere.webp`, alt: "Neugierige Kühe am Zaun mit Geranien – Bauernhofleben am Lindlerhof" } },
       { title: "Kräutergarten & Heuernte", text: "Frische Kräuter im Hofgarten pflücken und beim Sommer-Highlight mithelfen: der Heuernte in den Bergen, gefolgt von einer zünftigen Jause.", image: { src: `${IMG}/aktiv-heuernte.webp`, alt: "Gäste bei der Heuernte auf einer Bergwiese" } },
     ],
   },
