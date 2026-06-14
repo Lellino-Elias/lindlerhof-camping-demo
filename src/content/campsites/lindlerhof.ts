@@ -100,8 +100,8 @@ export const lindlerhof: CampsiteConfig = {
       { title: "Im Nationalpark Hohe Tauern", text: "Idyllisch gelegen zwischen Großglockner und den Lienzer Dolomiten – Alpenlandschaft, soweit das Auge reicht.", image: { src: `${IMG}/camping-lage.webp`, alt: "Blick über das Mölltal mit Wohnmobilen und Bergen im Abendlicht" } },
       { title: "Mitten in der Natur", text: "Großzügige Wiesen-Stellplätze für Zelt, Wohnwagen und Wohnmobil – ringsum nur Wald, Berge und Ruhe.", image: { src: `${IMG}/camping-zeltwiese.webp`, alt: "Zelte und Camper auf grünem Hügel am Lindlerhof" } },
       { title: "Stellplätze mit Bergblick", text: "Ebene Plätze mit Blick auf die teils schneebedeckten Gipfel der Hohen Tauern – am Morgen wie im Abendlicht.", image: { src: `${IMG}/camping-stellplatz.webp`, alt: "Wohnwagen mit Blick auf die Berge am Camping Lindlerhof" } },
-      { title: "Neue Sanitäranlagen", text: "Moderne, großzügige Sanitäranlagen – warmes Wasser steht jederzeit kostenlos zur Verfügung, Waschmaschine und Trockner sind vorhanden.", image: { src: `${IMG}/camping-sanitaer.webp`, alt: "Modernes Waschraum-Interieur der neuen Sanitäranlagen am Camping Lindlerhof mit Natursteinwand und Holztüren" } },
-      { title: "Restaurant am Platz", text: "In der Hauptsaison verwöhnt das Restaurant von 18 bis 20 Uhr mit ausgezeichneten Speisen – um Reservierung wird gebeten, in der Nebensaison auf Anfrage.", image: { src: `${IMG}/camping-restaurant.webp`, alt: "Restaurant-Pavillon aus Holz am Camping Lindlerhof" } },
+      { title: "Neue Sanitäranlagen", text: "Moderne Sanitäranlagen mit kostenlosem Warmwasser, Waschmaschine und Trockner.", image: { src: `${IMG}/camping-sanitaer.webp`, alt: "Modernes Waschraum-Interieur der neuen Sanitäranlagen am Camping Lindlerhof mit Natursteinwand und Holztüren" } },
+      { title: "Restaurant am Platz", text: "In der Hauptsaison täglich von 18–20 Uhr geöffnet, Reservierung erbeten – in der Nebensaison auf Anfrage.", image: { src: `${IMG}/camping-restaurant.webp`, alt: "Restaurant-Pavillon aus Holz am Camping Lindlerhof" } },
       { title: "Unser Bauernhof", text: "Tiere zum Anfassen, ein Kräutergarten zum Naschen und das Landleben hautnah – mittendrin statt nur dabei.", image: { src: `${IMG}/camping-bauernhof.webp`, alt: "Kühe am Hofweg des Lindlerhof" } },
     ],
   },
@@ -114,7 +114,7 @@ export const lindlerhof: CampsiteConfig = {
       {
         name: "Ferienhaus „Seeblick“ & „Dolomitenblick“",
         kind: "Ferienhaus",
-        text: "Gemütliches Ferienhaus für 2 Personen plus Schlafboden für 2 Kinder (ab 6 Jahren) – mit Wohnküche, Pelletofen, Bad, Kühlschrank, Kaffeemaschine und TV. Mindestaufenthalt 1 Woche.",
+        text: "Ferienhaus für 2 Personen plus Schlafboden für 2 Kinder (ab 6 J.) – Wohnküche, Pelletofen, Bad und TV. Mindestaufenthalt 1 Woche.",
         image: { src: `${IMG}/ferienhaus.webp`, alt: "Ferienhäuser aus Holz am Lindlerhof vor den Bergen" },
         priceFrom: 699,
         features: ["ab € 699 / Woche · 2 Pers.", "+ 2 Kinder (Schlafboden)", "Wohnküche & Pelletofen"],
@@ -130,7 +130,7 @@ export const lindlerhof: CampsiteConfig = {
       {
         name: "Schlaflager",
         kind: "Gruppenunterkunft",
-        text: "Gruppenschlafplatz für 4 bis maximal 12 Personen mit eigener Dusche und großzügiger Terrasse mit wunderbarem Ausblick – nur auf Anfrage.",
+        text: "Gruppenunterkunft für 4 bis 12 Personen mit eigener Dusche, Terrasse und Ausblick – nur auf Anfrage.",
         image: { src: `${IMG}/schlaflager.webp`, alt: "Holz-Stockbetten im Schlaflager des Lindlerhof" },
         priceFrom: 35,
         features: ["ab € 35 p. P. / Nacht", "4–12 Personen", "eigene Dusche · auf Anfrage"],
@@ -138,7 +138,7 @@ export const lindlerhof: CampsiteConfig = {
       {
         name: "Arnikahütte",
         kind: "Hütte · 1.300 m",
-        text: "Komfortable Hütte am Wald- und Wiesenrand auf 1.300 m Seehöhe: Zirbenbett für 2, Kinderzimmer für max. 3, Wohnküche mit Holzherd, Wintergarten und Solarstrom. Nichtraucher, keine Haustiere. Mindestaufenthalt 1 Woche.",
+        text: "Hütte auf 1.300 m mit Zirbenbett, Kinderzimmer, Holzherd und Wintergarten – für Nichtraucher, Mindestaufenthalt 1 Woche.",
         image: { src: `${IMG}/arnikahuette.webp`, alt: "Die Arnikahütte am Wald- und Wiesenrand auf 1.300 m" },
         priceFrom: 899,
         features: ["ab € 899 / Woche · 2 Pers.", "+ Kinderzimmer (max. 3)", "Holzherd & Wintergarten"],
@@ -154,7 +154,7 @@ export const lindlerhof: CampsiteConfig = {
       { title: "Wandern im Mölltal", text: "Vom Platz direkt los: Wandern und Bergtouren im Nationalpark Hohe Tauern, zwischen Großglockner und den Lienzer Dolomiten.", image: { src: `${IMG}/aktiv-wandern.webp`, alt: "Bergkirche Marterle mit verschneiten Gipfeln im Mölltal" } },
       { title: "Skifahren im Winter", text: "Die Skigebiete Heiligenblut, Zettersfeld, Hochstein und der Mölltaler Gletscher sind in 20 bis 40 Minuten mit dem Auto erreichbar.", image: { src: `${IMG}/aktiv-winter.webp`, alt: "Frischer Schnee mit Spuren und verschneiten Bäumen rund um den Lindlerhof" } },
       { title: "Tiere & Hofleben", text: "Ziegen, Kühe und mehr: zahlreiche Tiere warten am Hof – immer wieder eine Freude für Groß und Klein.", image: { src: `${IMG}/aktiv-tiere.webp`, alt: "Neugierige Kühe am Zaun mit Geranien – Bauernhofleben am Lindlerhof" } },
-      { title: "Kräutergarten & Heuernte", text: "Frische Kräuter im Hofgarten pflücken und beim Sommer-Highlight mithelfen: der Heuernte in den Bergen, gefolgt von einer zünftigen Jause.", image: { src: `${IMG}/aktiv-heuernte.webp`, alt: "Gäste bei der Heuernte auf einer Bergwiese" } },
+      { title: "Kräutergarten & Heuernte", text: "Kräuter pflücken, bei der Heuernte in den Bergen mithelfen und danach eine zünftige Jause genießen.", image: { src: `${IMG}/aktiv-heuernte.webp`, alt: "Gäste bei der Heuernte auf einer Bergwiese" } },
     ],
   },
 
