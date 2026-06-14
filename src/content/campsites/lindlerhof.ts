@@ -97,12 +97,12 @@ export const lindlerhof: CampsiteConfig = {
     intro:
       "Ebene Wiesen-Stellplätze auf 900 m Seehöhe, ringsum Wald, Berge und der kleine See – dazu ein Restaurant, neue Sanitäranlagen und ein echter Bauernhof direkt am Platz.",
     features: [
+      { title: "Im Nationalpark Hohe Tauern", text: "Idyllisch gelegen zwischen Großglockner und den Lienzer Dolomiten – Alpenlandschaft, soweit das Auge reicht.", image: { src: `${IMG}/camping-lage.webp`, alt: "Blick über das Mölltal mit Wohnmobilen und Bergen im Abendlicht" } },
       { title: "Mitten in der Natur", text: "Großzügige Wiesen-Stellplätze für Zelt, Wohnwagen und Wohnmobil – ringsum nur Wald, Berge und Ruhe.", image: { src: `${IMG}/camping-zeltwiese.webp`, alt: "Zelte und Camper auf grünem Hügel am Lindlerhof" } },
       { title: "Stellplätze mit Bergblick", text: "Ebene Plätze mit Blick auf die teils schneebedeckten Gipfel der Hohen Tauern – am Morgen wie im Abendlicht.", image: { src: `${IMG}/camping-stellplatz.webp`, alt: "Wohnwagen mit Blick auf die Berge am Camping Lindlerhof" } },
       { title: "Neue Sanitäranlagen", text: "Moderne, großzügige Sanitäranlagen – warmes Wasser steht jederzeit kostenlos zur Verfügung, Waschmaschine und Trockner sind vorhanden.", image: { src: `${IMG}/camping-sanitaer.webp`, alt: "Eingang der neuen Sanitäranlagen am Camping Lindlerhof" } },
       { title: "Restaurant am Platz", text: "In der Hauptsaison verwöhnt das Restaurant von 18 bis 20 Uhr mit ausgezeichneten Speisen – um Reservierung wird gebeten, in der Nebensaison auf Anfrage.", image: { src: `${IMG}/camping-restaurant.webp`, alt: "Restaurant-Pavillon aus Holz am Camping Lindlerhof" } },
       { title: "Unser Bauernhof", text: "Tiere zum Anfassen, ein Kräutergarten zum Naschen und das Landleben hautnah – mittendrin statt nur dabei.", image: { src: `${IMG}/camping-bauernhof.webp`, alt: "Kühe am Hofweg des Lindlerhof" } },
-      { title: "Im Nationalpark Hohe Tauern", text: "Idyllisch gelegen zwischen Großglockner und den Lienzer Dolomiten – Alpenlandschaft, soweit das Auge reicht.", image: { src: `${IMG}/camping-lage.webp`, alt: "Blick über das Mölltal mit Wohnmobilen und Bergen im Abendlicht" } },
     ],
   },
 
